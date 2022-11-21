@@ -19,6 +19,12 @@ I am not sure whether the `origin` is always an individual 5-character port code
 
 According to the testing demo provided by Xeneta team, it shows that the `origin` is a 5-character port code, therefore, I only considered about the scenario where the input of `origin` is a 5-character port code 
 
+## Run the service
+
+    cd Xeneta-HTTP-API
+    python api.py
+    
+
 ## Testing examples
 
 Testing example 1: 
